@@ -21,7 +21,7 @@ Create your project folder
 mkdir drf_training && cd drf_training
 ```
 
-We need to create our virtual environment, activate it, install packages and freeze them (virtual environment best practices)
+We need to create our virtual environment, activate it, install packages and freeze them ([virtualenv best practices](venv.md "virtualenv best practices"))
 
 ```bash
 virtualenv venv
